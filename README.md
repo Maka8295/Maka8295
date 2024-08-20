@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hello! こんにちは!
 
-<!--
-**Maka8295/Maka8295** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Physics graduate learning how to program.　Just completed CS50 and CS50P from Harvard.
+オークランド大学物理学部卒業、プログラミング勉強中。
 
-Here are some ideas to get you started:
+Learning　勉強中:
+- Python
+- C
+- Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Want to learn　勉強したい言語:
+- C++
+- Rust
+
+Outside of programming I enjoy tinkering with electronics, designing PCBs, 3D-Modeling and retro games!
+プログラミング意外の趣味は基盤設計、3Dモデリング、レトロゲーム!
+
+New Zealand 🇳🇿 -> Japan 🇯🇵　-> France 🇫🇷　-> ?
+
