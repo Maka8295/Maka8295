@@ -16,5 +16,5 @@ Want to learn　勉強したい言語:
 Outside of programming I enjoy tinkering with electronics, designing PCBs, 3D-Modeling and retro games!
 プログラミング以外の趣味は基盤設計、3Dモデリング、レトロゲーム!
 
-New Zealand 🇳🇿
-
+Auckland, New Zealand 🇳🇿
+Tokyo, Japan 🇯🇵
