@@ -1,20 +1,7 @@
-## Hello! こんにちは!
+## Ƿes hal!
 
-Physics graduate learning how to program.　Just completed CS50 and CS50P from Harvard.
-オークランド大学物理学部卒業、プログラミング勉強中。
+Physics graduate specializing in PCB design and embedded systems.
 
-Learning　勉強中:
-- Python
-- C
-
-Want to learn　勉強したい言語:
-- Lua
-- JavaScript/TypeScript
-- C++
-- Rust
-
-Outside of programming I enjoy tinkering with electronics, designing PCBs, 3D-Modeling and retro games!
-プログラミング以外の趣味は基盤設計、3Dモデリング、レトロゲーム!
-
-Auckland, New Zealand 🇳🇿
 Tokyo, Japan 🇯🇵
+
+English/日本語
